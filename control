@@ -1,0 +1,10 @@
+Package: com.captinc.cercubedarkmode
+Name: CercubeDarkMode
+Version: 1.0
+Depends: firmware (>=11.0), mobilesubstrate, me.alfhaily.cercube
+Author: Capt Inc
+Maintainer: Capt Inc
+Section: Tweaks
+Architecture: iphoneos-arm
+Description: Dark mode in Cercube for YouTube
+Depiction: https://captinc.github.io/depictions/CercubeDarkMode/cercubedarkmode.html
