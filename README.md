@@ -1,15 +1,15 @@
-# CercubeDarkMode v1.0
+# CercubeDarkMode v1.1
 Compatible with iOS 11.0+
 
 Repo: [https://captinc.github.io/](https://captinc.github.io/)
 
 Price: **Free!**
 
-[Direct .deb download](https://github.com/captinc/CercubeDarkMode/releases/download/v1.0/com.captinc.cercubedarkmode_1.0_iphoneos-arm.deb)
+[Direct .deb download](https://github.com/captinc/CercubeDarkMode/releases/download/v1.1/com.captinc.cercubedarkmode_1.1_iphoneos-arm.deb)
 
 [Reddit post](https://www.reddit.com/r/jailbreak/comments/ekmhtj/release_cercubedarkmode_dark_mode_in_cercube_for/)
 
-[Screenshot](https://imgur.com/a/nMCKeZM//)
+[Screenshot](https://raw.githubusercontent.com/captinc/captinc.github.io/master/depictions/cercubedarkmode/1.png)
 
 # How to compile
 1. [Install theos](https://github.com/theos/theos/wiki/Installation-macOS/) on your Mac
