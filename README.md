@@ -1,9 +1,9 @@
 # CercubeDarkMode v1.1
+Dark mode in Cercube for YouTube
+
 Compatible with iOS 11.0+
 
 Repo: [https://captinc.github.io/](https://captinc.github.io/)
-
-Price: **Free!**
 
 [Direct .deb download](https://github.com/captinc/CercubeDarkMode/releases/download/v1.1/com.captinc.cercubedarkmode_1.1_iphoneos-arm.deb)
 
@@ -17,7 +17,7 @@ Price: **Free!**
 3. `cd ./CercubeDarkMode-master`
 4. `make package`
 
-A .deb will now be in the "CercubeDarkMode-master" folder
+A .deb will now be in the "CercubeDarkMode-master/packages" folder
 
 # License
 Please do not repackage my tweak, call it your own, and then redistribute it. You can use **individual** parts of my code for your own **non-commercial** projects. There is **no** warranty for this project. If you have any questions, [PM me on reddit](https://reddit.com/u/captinc37/)
