@@ -9,7 +9,7 @@ Repo: [https://captinc.github.io/](https://captinc.github.io/)
 
 [Reddit post](https://www.reddit.com/r/jailbreak/comments/ekmhtj/release_cercubedarkmode_dark_mode_in_cercube_for/)
 
-[Screenshot](https://raw.githubusercontent.com/captinc/captinc.github.io/master/depictions/cercubedarkmode/1.png)
+[Screenshots](https://raw.githubusercontent.com/captinc/captinc.github.io/master/depictions/cercubedarkmode/1.png)
 
 # How to compile
 1. [Install theos](https://github.com/theos/theos/wiki/Installation-macOS/) on your Mac
@@ -20,4 +20,4 @@ Repo: [https://captinc.github.io/](https://captinc.github.io/)
 A .deb will now be in the "CercubeDarkMode-master/packages" folder
 
 # License
-Please do not repackage my tweak, call it your own, and then redistribute it. You can use **individual** parts of my code for your own **non-commercial** projects. There is **no** warranty for this project. If you have any questions, [PM me on reddit](https://reddit.com/u/captinc37/)
+Please do not repackage my tweak, call it your own, and then redistribute it. You can use individual parts of my code for your own non-commercial projects. There is no warranty. If you have any questions, [PM me on Reddit](https://reddit.com/u/captinc37)
