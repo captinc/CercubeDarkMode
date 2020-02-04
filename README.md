@@ -3,16 +3,16 @@ Dark mode in Cercube for YouTube
 
 Compatible with iOS 11.0+
 
-Repo: [https://captinc.github.io/](https://captinc.github.io/)
+Repo: [https://captinc.github.io](https://captinc.github.io)
 
 [Direct .deb download](https://github.com/captinc/CercubeDarkMode/releases/download/v1.1/com.captinc.cercubedarkmode_1.1_iphoneos-arm.deb)
 
-[Reddit post](https://www.reddit.com/r/jailbreak/comments/ekmhtj/release_cercubedarkmode_dark_mode_in_cercube_for/)
+[Reddit post](https://www.reddit.com/r/jailbreak/comments/ekmhtj/release_cercubedarkmode_dark_mode_in_cercube_for)
 
 [Screenshots](https://raw.githubusercontent.com/captinc/captinc.github.io/master/depictions/cercubedarkmode/1.png)
 
 # How to compile
-1. [Install theos](https://github.com/theos/theos/wiki/Installation-macOS/) on your Mac
+1. [Install theos](https://github.com/theos/theos/wiki/Installation-macOS) on your Mac
 2. `git clone https://github.com/captinc/CercubeDarkMode.git ./CercubeDarkMode-master`
 3. `cd ./CercubeDarkMode-master`
 4. `make package`
