@@ -9,7 +9,7 @@ Repo: [https://captinc.github.io](https://captinc.github.io)
 
 [Reddit post](https://www.reddit.com/r/jailbreak/comments/ekmhtj/release_cercubedarkmode_dark_mode_in_cercube_for)
 
-[Screenshots](https://raw.githubusercontent.com/captinc/captinc.github.io/master/depictions/cercubedarkmode/1.png)
+[Screenshots](https://captinc.github.io/depictions/cercubedarkmode/screenshots.html)
 
 # How to compile
 1. [Install theos](https://github.com/theos/theos/wiki/Installation-macOS) on your Mac
