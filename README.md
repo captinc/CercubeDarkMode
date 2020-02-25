@@ -1,4 +1,4 @@
-# CercubeDarkMode v1.1 
+# CercubeDarkMode v1.1
 Dark mode in Cercube for YouTube
 
 Compatible with iOS 11.0+
